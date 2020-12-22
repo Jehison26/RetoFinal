@@ -9,7 +9,7 @@ module.exports = {
         type: Sequelize.INTEGER,
         allowNull: false,
         references: { // User belongsTo Company 1:1
-          model: 'Categoria',
+          model: 'Articulos',
           key: 'id'
         }
 

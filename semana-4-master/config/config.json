@@ -1,10 +1,10 @@
 {
     "development": {
-        "username": "iu2yf9ER30",
-        "password": "htTIjLTJJ7",
-        "database": "iu2yf9ER30",
+        "username": "pFM3bSZZDq",
+        "password": "fmWdGuwv2t",
+        "database": "pFM3bSZZDq",
         "host": "remotemysql.com",
-        "dialect":"sqlite",
+        "dialect":"mysql",
         "port": "3306"
     },
     "test": {

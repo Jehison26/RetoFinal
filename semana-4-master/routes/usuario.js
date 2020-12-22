@@ -5,10 +5,8 @@ const auth = require('../middlewares/auth');
 
 const router = routerx();
 
-
 router.get('/list', usaurioController.list);
 router.post('/login', usaurioController.login);
 router.put('/uptdate', usaurioController.update);
-//router.post('/add', usaurioController.add);
 
 module.exports = router;
